@@ -24,7 +24,7 @@
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-yellow?style=flat-square&logo=tensorflow)
 ![Keras](https://img.shields.io/badge/-Keras-red?style=flat-square&logo=keras)
 ![Opencv](https://img.shields.io/badge/-opencv-blue?style=flat-square&logo=opencv)
-[![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg)
+![macOS](https://svgshare.com/i/ZjP.svg)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 ![Windows](https://img.shields.io/badge/-Windows-blue?style=flat-square&logo=windows)
 ![Anaconda](https://img.shields.io/badge/conda-green?&style=flat-square&logo=anaconda)
