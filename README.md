@@ -1,5 +1,5 @@
  ![](Bottom_up.svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=900&lines=Hi+there+👋,+I+am+Harshith+R;+Welcome+to+My+Profile!;Over+2+years+of+programming+experience;An+Inquisitive+;Machine+Learning+Enthusiast;/MOTTO/;*DO+WHAT+EXCITES*)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=900&lines=Hi+there+👋,+I+am+Harshith+R;+Welcome+to+My+Profile!;Over+2+years+of+programming+experience;Very+Inquisitive+;Machine+Learning+Enthusiast;/MOTTO/;*DO+WHAT+EXCITES*)](https://git.io/typing-svg)
 ![](header_.png)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=900&lines=🤝+Let's+Connect+)](https://git.io/typing-svg)
