@@ -1,15 +1,15 @@
  ![](Bottom_up.svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=900&lines=Hi+there+👋,+I+am+Harshith+R;+Welcome+to+My+Profile!;Over+2+years+of+programming+experience;Always+learning+new+things+;Machine+Learning+Enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=900&lines=Hi+there+👋,+I+am+Harshith+R;+Welcome+to+My+Profile!;Over+2+years+of+programming+experience;An+Inquisitive+;Machine+Learning+Enthusiast;/MOTTO/;*DO+WHAT+EXCITES*)](https://git.io/typing-svg)
 ![](header_.png)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=900&lines=📫+How+to+reach+me)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=900&lines=🤝+Let's+Connect+)](https://git.io/typing-svg)
 <p align ="center">
-  <a href="www.linkedin.com/in/theharshithr/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/></a>
+  <a href="www.linkedin.com/in/theharshithr/"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/></a>
   <a href="mailto:rharshith1868@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="40" width="40" /></a>
-  <a href="https://www.instagram.com/theharshithr/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" width="40" height="40"/></a>
-  <a href="https://www.facebook.com/theharshithr/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40"/></a>
-  <a href="https://t.me/theharshithr"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="40" height="40"/></a>
-  <a href="https://github.com/theharshithr"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="Github" width="40" height="40"/></a>
+  <a href="https://www.instagram.com/theharshithr/"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" width="40" height="40"/></a>
+  <a href="https://www.facebook.com/theharshithr/"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40"/></a>
+  <a href="https://t.me/theharshithr"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="40" height="40"/></a>
+  <a href="https://github.com/theharshithr"><img align="center" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="Github" width="40" height="40"/></a>
 </p>
 
 ## :fleur_de_lis: **_TECH STACK_**
