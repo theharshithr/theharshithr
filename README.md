@@ -9,7 +9,6 @@
   <a href="https://www.instagram.com/theharshithr/"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" width="40" height="40"/></a>
   <a href="https://www.facebook.com/theharshithr/"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40"/></a>
   <a href="https://t.me/theharshithr"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="40" height="40"/></a>
-  <a href="https://github.com/theharshithr"><img align="center" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="Github" width="40" height="40"/></a>
 </p>
 
 ## :fleur_de_lis: **_TECH STACK_**
